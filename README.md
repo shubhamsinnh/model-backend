@@ -1,5 +1,7 @@
 # model-backend
 
+Welcome to the Ai-Model Backend
+
 [![Integration Test](https://github.com/instill-ai/model-backend/actions/workflows/integration-test.yml/badge.svg)](https://github.com/instill-ai/model-backend/actions/workflows/integration-test.yml)
 
 `model-backend` manages all model resources including model definitions and model instances within [Instill Model](https://github.com/instill-ai/model) to convert the unstructured data to meaningful data representations.
@@ -11,7 +13,6 @@ Please refer to the [Contributing Guidelines](./.github/CONTRIBUTING.md) for mor
 ## Community
 
 Please refer to the [community](https://github.com/instill-ai/community) repository.
-
 ## License
 
 See the [LICENSE](./LICENSE) file for licensing information.
